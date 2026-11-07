@@ -1,6 +1,6 @@
 cask "itda" do
-  version "0.1.2"
-  sha256 "7db69e085637e169be7b1a9f61ce3a01ca4c6a5c298e0f612aa8fad96871545a"
+  version "0.1.3"
+  sha256 "026f2b3655d8bdb19249f1d8d630a917329e111ecb7143cb362454d37a15384a"
 
   url "https://github.com/hrsong99/itda/releases/download/v#{version}/Itda.dmg"
   name "Itda"
