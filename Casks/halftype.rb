@@ -1,6 +1,6 @@
 cask "halftype" do
-  version "0.1.12"
-  sha256 "6311fe9d70c85c6c6822c5b39b2cffbfa3868d9093dfc3a10e8750be76a3c202"
+  version "0.1.13"
+  sha256 "486f6d994525a02e8c867856be92e95db553070a35b569aded45438ad63134ad"
 
   url "https://github.com/hrsong99/halftype/releases/download/v#{version}/Halftype.dmg"
   name "Halftype"
